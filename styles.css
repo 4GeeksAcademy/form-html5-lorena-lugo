@@ -1,0 +1,9 @@
+
+textarea{
+    display: flex;
+    align-self: self-end;
+   width: 300px;
+   height: 150px;
+   padding: 300px;
+
+}
